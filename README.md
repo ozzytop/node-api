@@ -7,6 +7,8 @@ Prod packages
 * express
 * mongoose 
 * morgan
+* slugify
+* node geocoder
 
 Dev Packages
 * nodemon
